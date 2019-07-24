@@ -1,0 +1,28 @@
+[2019-05-14 10:37:08.639] [exthost] [info] extension host started
+[2019-05-14 10:37:09.031] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-05-14 10:37:09.031] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/6/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-05-14 10:37:09.041] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-05-14 10:37:09.041] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/6/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-05-14 10:37:09.107] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-05-14 10:37:09.107] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/6/usr/share/code/resources/app/extensions/git/dist/main
+[2019-05-14 10:37:09.293] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-05-14 10:37:09.293] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/6/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-05-14 10:37:09.300] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-05-14 10:37:09.300] [exthost] [info] ExtensionService#loadCommonJSModule /home/frankovski/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/client/out/extension
+[2019-05-14 10:37:09.376] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2019-05-14 10:37:09.377] [exthost] [info] ExtensionService#loadCommonJSModule /home/frankovski/.vscode/extensions/equinusocio.vsc-material-theme-2.8.2/out/src/material.theme.config
+[2019-05-14 10:37:09.442] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-05-14 10:37:09.442] [exthost] [info] ExtensionService#loadCommonJSModule /home/frankovski/.vscode/extensions/esbenp.prettier-vscode-1.9.0/out/src/extension
+[2019-05-14 10:37:10.321] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-05-14 10:37:10.321] [exthost] [info] ExtensionService#loadCommonJSModule /home/frankovski/.vscode/extensions/pkief.material-icon-theme-3.7.0/dist/extension
+[2019-05-14 10:37:10.346] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-05-14 10:37:10.346] [exthost] [info] ExtensionService#loadCommonJSModule /home/frankovski/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-05-14 10:37:12.858] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-05-14 10:37:12.858] [exthost] [info] ExtensionService#loadCommonJSModule /home/frankovski/.vscode/extensions/vscode-icons-team.vscode-icons-8.6.0/out/src/
+[2019-05-14 10:37:13.209] [exthost] [info] eager extensions activated
+[2019-05-14 10:37:17.788] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-05-14 10:37:17.788] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/6/usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-05-14 10:37:17.808] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-05-14 10:37:17.808] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/6/usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-05-14 10:37:17.968] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-05-14 10:37:17.968] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/6/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
